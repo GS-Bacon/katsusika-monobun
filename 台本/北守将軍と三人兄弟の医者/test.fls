@@ -1,6 +1,0 @@
-PWD c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者
-INPUT c:/texlive/2023/texmf.cnf
-INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
-INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者/test.tex
-OUTPUT test.log
