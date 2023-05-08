@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  8 MAY 2023 15:04
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  8 MAY 2023 15:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -203,23 +203,18 @@ LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 9.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 9.
-
-c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex:10: Package pxrubrica Error: Group count mismatch between the ruby and
-(pxrubrica)                the body (2 <> 1).
-
-See the pxrubrica package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 \ruby
-          {宮沢}{みやざわ}\ruby{賢治}{けんじ} 
+c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex:55: Extra }, or forgotten \endgroup.
+\pxrr@decompose@loopc ...rr@appto \pxrr@res {{{#1}
+                                                  }}\else \pxrr@appto \pxrr@...
+l.55 ...by[g]{戻}{もど}つて \ruby[g]{来た}{き  }。
+                                                   
 Here is how much of TeX's memory you used:
- 5527 strings out of 478163
- 112739 string characters out of 5842015
- 1844069 words of memory out of 5000000
+ 5526 strings out of 478163
+ 112532 string characters out of 5842015
+ 1867069 words of memory out of 5000000
  25863 multiletter control sequences out of 15000+600000
  525736 words of font info for 63 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 78i,3n,106p,931b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,2n,106p,1435b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 No pages of output.
