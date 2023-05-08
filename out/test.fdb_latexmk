@@ -4,8 +4,8 @@
   (generated)
   "out/test.pdf"
   (rewritten before read)
-["latex"] 1683528241 "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex" "out/test.dvi" "test" 1683528242 2
-  "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex" 1683528241 55561 89913d99b9d3d9b7443e95063c89f8fe ""
+["latex"] 1683533949 "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex" "out/test.dvi" "test" 1683533950 2
+  "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex" 1683533948 55563 3d6abf54bc9d686cc09181de251dff59 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1682926784 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1683504868 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr9.tfm" 1683504868 1292 6b21b9c2c7bebb38aa2273f7ca0fb3af ""
@@ -35,8 +35,8 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1683504591 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1683506034 6631330 317e932127968306c75382891e46096f ""
   "c:/texlive/2023/texmf.cnf" 1683505947 713 e69b156964470283e0530f5060668171 ""
-  "out/test.aux" 1683528242 8 a94a2480d3289e625eea47cd1b285758 "latex"
-  "test.tex" 1683528241 55561 89913d99b9d3d9b7443e95063c89f8fe ""
+  "out/test.aux" 1683533950 8 a94a2480d3289e625eea47cd1b285758 "latex"
+  "test.tex" 1683533948 55563 3d6abf54bc9d686cc09181de251dff59 ""
   (generated)
   "out/test.aux"
   "out/test.dvi"
