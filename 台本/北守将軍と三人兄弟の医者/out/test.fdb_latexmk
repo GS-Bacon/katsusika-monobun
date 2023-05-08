@@ -1,0 +1,20 @@
+# Fdb version 4
+["dvipdf"] 0 "out/test.dvi" "out/test.pdf" "out/test" 0 -1
+  "out/test.dvi" 0 -1 0 "latex"
+  (generated)
+  "out/test.pdf"
+  (rewritten before read)
+["latex"] 1683508690 "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者/test.tex" "out/test.dvi" "test" 1683508691 2
+  "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者/test.tex" 1683507063 703 260e0d083c739794f697747298f28a8b ""
+  "c:/texlive/2023/texmf-dist/tex/luatex/luatexja/ltjsarticle.cls" 1683505391 54048 93eefc8b4e019ecace6b76a007000556 ""
+  "c:/texlive/2023/texmf-dist/tex/luatex/luatexja/luatexja.sty" 1683505391 2042 1babaf6b163a8e5280abd8cba34d0ea4 ""
+  "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1683504591 40967 d940221f8762fd5848760382d97d1226 ""
+  "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1683506034 6631330 317e932127968306c75382891e46096f ""
+  "c:/texlive/2023/texmf.cnf" 1683505947 713 e69b156964470283e0530f5060668171 ""
+  "out/test.aux" 1683508690 34 3985256e7290058c681f74d7a3565a19 "latex"
+  "test.tex" 1683507063 703 260e0d083c739794f697747298f28a8b ""
+  (generated)
+  "out/test.aux"
+  "out/test.dvi"
+  "out/test.log"
+  (rewritten before read)

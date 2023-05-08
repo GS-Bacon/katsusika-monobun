@@ -1,22 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1683507065 "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者/test.tex" "test.pdf" "test" 1683507066 2
-  "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者/test.tex" 1683507063 703 260e0d083c739794f697747298f28a8b ""
-  "c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1683505234 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
-  "c:/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty" 1683505238 8356 7bbb2c2373aa810be568c29e333da8ed ""
-  "c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty" 1683505380 17859 4409f8f50cd365c68e684407e5350b1b ""
-  "c:/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty" 1683505505 20089 80423eac55aa175305d35b49e04fe23b ""
-  "c:/texlive/2023/texmf-dist/tex/latex/base/ltluatex.tex" 1683505316 8802 3d538f0f54900abbc3a15f3929340c5f ""
-  "c:/texlive/2023/texmf-dist/tex/luatex/ctablestack/ctablestack.sty" 1683505009 1510 9c109bd1f6a9fc69b2f6096ee416d958 ""
-  "c:/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload.sty" 1683505386 1812 111305261f7ae81803f3a1002d6b29c4 ""
-  "c:/texlive/2023/texmf-dist/tex/luatex/luatexbase/luatexbase.sty" 1683505390 10170 b1a2248f43cab899e3fe36f676176865 ""
-  "c:/texlive/2023/texmf-dist/tex/luatex/luatexja/ltjsarticle.cls" 1683505391 54048 93eefc8b4e019ecace6b76a007000556 ""
-  "c:/texlive/2023/texmf-dist/tex/luatex/luatexja/luatexja-core.sty" 1683505391 29748 836f07fc4aa5d417781fc7aec8ed13f4 ""
-  "c:/texlive/2023/texmf-dist/tex/luatex/luatexja/luatexja.sty" 1683505391 2042 1babaf6b163a8e5280abd8cba34d0ea4 ""
+["pdflatex"] 1683508834 "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者/test.tex" "test.pdf" "test" 1683508835 2
+  "c:/Users/A0216/Documents/program/monobun/katsusika-monobun/台本/北守将軍と三人兄弟の医者/test.tex" 1683508832 0 d41d8cd98f00b204e9800998ecf8427e ""
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1683504591 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1683506023 6529585 08a16a43cedc51b88b5e8924d07fb9a4 ""
   "c:/texlive/2023/texmf.cnf" 1683505947 713 e69b156964470283e0530f5060668171 ""
-  "test.aux" 1683507065 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "test.tex" 1683507063 703 260e0d083c739794f697747298f28a8b ""
+  "test.aux" 1683508834 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "test.tex" 1683508832 0 d41d8cd98f00b204e9800998ecf8427e ""
   (generated)
   "test.aux"
   "test.log"
