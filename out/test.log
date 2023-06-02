@@ -1,15 +1,15 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  8 MAY 2023 17:19
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  2 JUN 2023 13:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex
-(c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun/test.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun/test.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-05-05> (c:/texlive/2023/texmf-dist/tex/latex/jlreq/jlreq.cls
+L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/latex/jlreq/jlreq.cls
 Document Class: jlreq 2023/03/05 jlreq
 (c:/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (c:/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-05-05 L3 programming layer (loader) 
+Package: expl3 2023-05-22 L3 programming layer (loader) 
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 \l__pdf_internal_box=\box68
@@ -169,57 +169,57 @@ Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp>
 \@tempcntd=\count277
 \@tempcnte=\count278
 \@tempcntf=\count279
-))
+)) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+Excluding comment 'comment')
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 8.
+(Font)              scaled to size 9.6222pt on input line 9.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 8.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8.
+(Font)              scaled to size 9.6222pt on input line 9.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 9.
 (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (out/test.aux)
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 《縦組モード》
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 4.8111pt on input line 9.
+(Font)              scaled to size 4.8111pt on input line 10.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 4.8111pt on input line 9.
+(Font)              scaled to size 4.8111pt on input line 10.
+Excluding 'comment' comment.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 8.65991pt on input line 224.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 8.65991pt on input line 224.
+[1
 
-c:/Users/A0216/Documents/program/monobun/katsusika-monobun/test.tex:13: Package pxrubrica Error: Group count mismatch between the ruby and
-(pxrubrica)                the body (1 <> 2).
-
-See the pxrubrica package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 ...g]{一}{いち}、 \ruby[g]{三人}{さん |にん} 
-                                                  \ruby[g]{兄弟}{きょうだい}... 
+] (out/test.aux) ) 
 Here is how much of TeX's memory you used:
- 5527 strings out of 478163
- 112739 string characters out of 5842015
- 1844069 words of memory out of 5000000
- 25863 multiletter control sequences out of 15000+600000
- 525736 words of font info for 63 fonts, out of 8000000 for 9000
+ 5606 strings out of 478148
+ 114179 string characters out of 5841816
+ 1848606 words of memory out of 5000000
+ 25950 multiletter control sequences out of 15000+600000
+ 528885 words of font info for 66 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 78i,2n,106p,931b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,6n,106p,2142b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-No pages of output.
+Output written on out/test.dvi (1 page, 756 bytes).
