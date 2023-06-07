@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  7 JUN 2023 12:44
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  7 JUN 2023 15:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -55,86 +55,63 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \pxrr@boxa=\box70
 \pxrr@boxb=\box71
 \pxrr@boxr=\box72
-) (c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/otf.sty
-Package: otf 2023/02/23 TeX JP org, v1.7b8 psitau, u0.28 ttk
-Package otf Info: Autodetected engine: pLaTeX on input line 63.
-LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 333.
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
-(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 333.
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 333.
-LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
-(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 335.
-LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 336.
-LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
-(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
-LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
-(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
-LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
-(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 337.
-(c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
-Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp>
-\@tempcntc=\count196
-\@tempcntd=\count197
-\@tempcnte=\count198
-\@tempcntf=\count199
-)) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
-Excluding comment 'comment')
-LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 32.
-LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 32.
-(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+Excluding comment 'comment') (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 \l__pdf_internal_box=\box73
-\g__pdf_backend_object_int=\count266
+\g__pdf_backend_object_int=\count196
 \l__pdf_backend_content_box=\box74
 \l__pdf_backend_model_box=\box75
-\g__pdf_backend_annotation_int=\count267
-\g__pdf_backend_link_int=\count268
-\g__pdf_backend_link_sf_int=\count269
+\g__pdf_backend_annotation_int=\count197
+\g__pdf_backend_link_int=\count198
+\g__pdf_backend_link_sf_int=\count199
 )
 
 LaTeX Warning: Unused global option(s):
-    [22pt,book].
+    [fontsize,jafontsize,book].
 
 (out/test.aux)
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 《縦組モード》
-LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 4.8111pt on input line 33.
-LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 4.8111pt on input line 33.
-Excluding 'comment' comment. [1
 
-] (out/test.aux) ) 
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 34.
+
+[1
+
+] Excluding 'comment' comment. [2] (out/test.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3188 strings out of 478148
- 46195 string characters out of 5841816
- 1861606 words of memory out of 5000000
- 23570 multiletter control sequences out of 15000+600000
- 516562 words of font info for 53 fonts, out of 8000000 for 9000
+ 1444 strings out of 478148
+ 24864 string characters out of 5841816
+ 1878606 words of memory out of 5000000
+ 21831 multiletter control sequences out of 15000+600000
+ 517682 words of font info for 55 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,5n,48p,2073b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 40i,5n,48p,2056b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/test.dvi (1 page, 2708 bytes).
+Output written on out/test.dvi (2 pages, 8732 bytes).
