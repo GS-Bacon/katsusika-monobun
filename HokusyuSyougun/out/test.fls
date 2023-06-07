@@ -1,10 +1,10 @@
-PWD c:/Users/A0216/Documents/monobun/katsusika-monobun
+PWD c:/Users/bacon/Documents/monobun/katsusika-monobun
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt
-INPUT c:/Users/A0216/Documents/monobun/katsusika-monobun/test.tex
+INPUT c:/Users/bacon/Documents/monobun/katsusika-monobun/test.tex
 OUTPUT out/test.log
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls

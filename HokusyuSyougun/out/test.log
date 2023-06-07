@@ -1,12 +1,12 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  7 JUN 2023 15:39
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.7)  7 JUN 2023 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/monobun/katsusika-monobun/test.tex
-(c:/Users/A0216/Documents/monobun/katsusika-monobun/test.tex
+**c:/Users/bacon/Documents/monobun/katsusika-monobun/test.tex
+(c:/Users/bacon/Documents/monobun/katsusika-monobun/test.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
+L3 programming layer <2023-06-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
 \c@@paper=\count184
 (c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo
@@ -106,11 +106,11 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 1445 strings out of 478148
- 24876 string characters out of 5841816
- 1880606 words of memory out of 5000000
- 21832 multiletter control sequences out of 15000+600000
- 517682 words of font info for 55 fonts, out of 8000000 for 9000
+ 1445 strings out of 478090
+ 24876 string characters out of 5840649
+ 1880578 words of memory out of 5000000
+ 21890 multiletter control sequences out of 15000+600000
+ 518782 words of font info for 57 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  40i,5n,48p,2056b,263s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
