@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 JUN 2023 11:51
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 JUN 2023 12:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -135,12 +135,12 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 7.69775pt on input line 39.
 [1
 
-] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]
 
 LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <16> not available
 (Font)              size <17.28> substituted on input line 296.
 
-Excluding 'comment' comment. [20] [21] (out/KaerunoGomugutu.aux)
+Excluding 'comment' comment. [21] [22] (out/KaerunoGomugutu.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
@@ -149,10 +149,10 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  4049 strings out of 478148
  62265 string characters out of 5841816
- 1857606 words of memory out of 5000000
+ 1852606 words of memory out of 5000000
  24428 multiletter control sequences out of 15000+600000
  517702 words of font info for 58 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,6n,48p,489b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 41i,5n,48p,489b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/KaerunoGomugutu.dvi (21 pages, 34108 bytes).
+Output written on out/KaerunoGomugutu.dvi (22 pages, 34212 bytes).
