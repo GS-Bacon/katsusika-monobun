@@ -30,18 +30,22 @@ book]
 \renewcommand{\baselinestretch}{1.1} %行間倍率
 
 \begin{document}
-\fontsize{15pt}{30pt}\selectfont
+
+\fontsize{15pt}{28pt}\selectfont
 \rubysetup{(-)} %ルビのデフォルト設定 モノルビで
 \mcfamily %フォント設定 ヒラノギ細字を使う
+
+%表紙
+\thispagestyle{empty}
 {\fontsize{30pt}{24pt}\selectfont
 蛙のゴム靴\\
 \begin{flushright}
 \ruby{宮沢}{みや|ざわ}\ruby{賢治}{けん|じ}\\
 \end{flushright}
 }
+%
 \newpage
-
-
+\setcounter{page}{1}
 　松の木や\ruby{楢}{なら}の木の林の下を、深い\ruby{堰}{せき}が流れて\ruby{居}{を}りました。岸には\ruby{茨}{いばら}やつゆ草やたでが一杯にしげり、
 そのつゆくさの十本ばかり集った下のあたりに、カン\ruby{蛙}{がへる}のうちがありました。\\
 それから、林の中の楢の木の下に、ブン蛙のうちがありました。\\
@@ -291,11 +295,8 @@ book]
 2008年11月30日修正\\
 青空文庫作成ファイル：\\
 このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。\\
-\\
-\\
 ●表記について\\
 •	このファイルは W3C 勧告 XHTML1.1 にそった形式で作成されています。\\
-\\
 \begin{comment}
 a
 \end{comment}

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 JUN 2023 13:09
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 JUN 2023 15:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -122,38 +122,38 @@ LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 32.
 LaTeX Font Info:    ... okay on input line 32.
 《縦組モード》
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 33.
+(Font)              scaled to size 14.43329pt on input line 34.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 33.
+(Font)              scaled to size 14.43329pt on input line 34.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 33.
+(Font)              size <14.4> substituted on input line 34.
 
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 36.
+(Font)              scaled to size 28.86658pt on input line 40.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 36.
+(Font)              scaled to size 28.86658pt on input line 40.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <30> not available
-(Font)              size <24.88> substituted on input line 36.
+(Font)              size <24.88> substituted on input line 40.
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 7.21664pt on input line 45.
+(Font)              scaled to size 7.21664pt on input line 49.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 7.21664pt on input line 45.
+(Font)              scaled to size 7.21664pt on input line 49.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 45.
+(Font)              size <7> substituted on input line 49.
 
-[2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17]
 
 LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 297.
+(Font)              size <14.4> substituted on input line 299.
 
-Excluding 'comment' comment. [21] [22] (out/KaerunoGomugutu.aux)
+Excluding 'comment' comment. [18] (out/KaerunoGomugutu.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
@@ -168,4 +168,4 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  41i,6n,48p,489b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/KaerunoGomugutu.dvi (22 pages, 34276 bytes).
+Output written on out/KaerunoGomugutu.dvi (19 pages, 33952 bytes).
