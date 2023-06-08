@@ -1,10 +1,10 @@
-PWD c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/HokusyuSyougun
+PWD c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/HokusyuSyougun
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt
-INPUT c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/HokusyuSyougun/hokusyusyougun.tex
+INPUT c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/HokusyuSyougun/hokusyusyougun.tex
 OUTPUT out/hokusyusyougun.log
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
