@@ -1,12 +1,12 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.7)  8 JUN 2023 00:01
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 JUN 2023 11:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/KaerunoGomugutu.tex
-(c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/KaerunoGomugutu.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/KaerunoGomugutu.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/KaerunoGomugutu.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-06-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
+L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
 \c@@paper=\count184
 (c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo
@@ -55,63 +55,104 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \pxrr@boxa=\box70
 \pxrr@boxb=\box71
 \pxrr@boxr=\box72
-) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+) (c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/otf.sty
+Package: otf 2023/02/23 TeX JP org, v1.7b8 psitau, u0.28 ttk
+Package otf Info: Autodetected engine: pLaTeX on input line 63.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 333.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 333.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 333.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 335.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 336.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 337.
+(c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
+Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp>
+\@tempcntc=\count196
+\@tempcntd=\count197
+\@tempcnte=\count198
+\@tempcntf=\count199
+)) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
-Excluding comment 'comment') (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+Excluding comment 'comment')
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 32.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 32.
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 \l__pdf_internal_box=\box73
-\g__pdf_backend_object_int=\count196
+\g__pdf_backend_object_int=\count266
 \l__pdf_backend_content_box=\box74
 \l__pdf_backend_model_box=\box75
-\g__pdf_backend_annotation_int=\count197
-\g__pdf_backend_link_int=\count198
-\g__pdf_backend_link_sf_int=\count199
+\g__pdf_backend_annotation_int=\count267
+\g__pdf_backend_link_int=\count268
+\g__pdf_backend_link_sf_int=\count269
 )
 
 LaTeX Warning: Unused global option(s):
-    [fontsize,jafontsize,book].
+    [book].
 
 (out/KaerunoGomugutu.aux)
 \openout1 = `KaerunoGomugutu.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 《縦組モード》
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 15.39551pt on input line 33.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 15.39551pt on input line 33.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 34.
+(Font)              size <17.28> substituted on input line 33.
 
-Excluding 'comment' comment. [1
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 39.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 39.
+[1
 
-] [2] [3] [4] (out/KaerunoGomugutu.aux)
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+
+LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 296.
+
+Excluding 'comment' comment. [20] [21] (out/KaerunoGomugutu.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 1445 strings out of 478090
- 25089 string characters out of 5840649
- 1857578 words of memory out of 5000000
- 21890 multiletter control sequences out of 15000+600000
- 518782 words of font info for 57 fonts, out of 8000000 for 9000
+ 4049 strings out of 478148
+ 62265 string characters out of 5841816
+ 1857606 words of memory out of 5000000
+ 24428 multiletter control sequences out of 15000+600000
+ 517702 words of font info for 58 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 40i,5n,48p,991b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 41i,6n,48p,489b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/KaerunoGomugutu.dvi (4 pages, 6556 bytes).
+Output written on out/KaerunoGomugutu.dvi (21 pages, 34108 bytes).
