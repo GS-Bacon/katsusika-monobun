@@ -1,17 +1,17 @@
 \documentclass[
 a4paper,
-fontsize=20pt,
-jafontsize=20pt,
+10pt,
 book]
 {tarticle}
 % A4 20pt book tarticle→縦書き
 \usepackage{pxrubrica} %ルビ追加
-%\usepackage{otf}
+\usepackage[deluxe]{otf}
 \usepackage{comment} %ﾌﾞﾛｯｸでコメントアウト
+
 
 \AtBeginDvi{\special{papersize=210mm,297mm}} %A4サイズ 210x297
 
-\setlength{\topmargin}{18mm} % ページ上部余白の設定
+\setlength{\topmargin}{24mm} % ページ上部余白の設定
 \addtolength{\topmargin}{-1in} % 初期設定の1インチ分を引いておく。
 
 \setlength{\oddsidemargin}{22mm} % 同、奇数ページ左。
@@ -20,19 +20,52 @@ book]
 \setlength{\evensidemargin}{28mm} % 同、偶数ページ左。
 \addtolength{\evensidemargin}{-1in}
 
-\setlength{\textwidth}{253mm} % 文書領域の幅（上下）。縦書と横書でパラメータ（width / height）の向きが変わる。
+\setlength{\textwidth}{245mm} % 文書領域の幅（上下）。縦書と横書でパラメータ（width / height）の向きが変わる。
 
 \setlength{\textheight}{160mm} % 文書領域の幅（左右）。
-\setlength{\headsep}{0mm} % ヘッダ下端と本文領域との間隔。私の場合、ヘッダをつけぬので、この辺の数値は0である。しかし headsep って何や。headseparation？ headseparator？
+\setlength{\headsep}{1mm} % ヘッダ下端と本文領域との間隔。私の場合、ヘッダをつけぬので、この辺の数値は0である。しかし headsep って何や。headseparation？ headseparator？
 \setlength{\headheight}{0mm} % headheight → ヘッダの高さ。ヘッダはつけないが、設定しておかぬと TeX の自動配置の際にデフォルト値（知らんけど）を入れられそう。
 \setlength{\topskip}{0mm} % ここは改善の余地あり→下段 ［参考］ "行位置が揃った段組" を見ること。
 \setlength{\parskip}{0pt} % 段落間の自動空白調整を切る。parskip って何の略や。parindent っちゅうのもあるけど、par って何なんや？ → par とは paragraph（段落）のことらしい。 parindent は、1行目の字下げ幅。
 
-\renewcommand{\baselinestretch}{1.1} %行間倍率
+%1ページあたりの行数、文字数を設定するためのなんかよくわからんやつ
+\makeatletter
+\def\mojiparline#1{
+    \newcounter{mpl}
+    \setcounter{mpl}{#1}
+    \@tempdima=\linewidth
+    \advance\@tempdima by-\value{mpl}zw
+    \addtocounter{mpl}{-1}
+    \divide\@tempdima by \value{mpl}
+    \advance\kanjiskip by\@tempdima
+    \advance\parindent by\@tempdima
+}
+\makeatother
+\def\linesparpage#1{
+    \baselineskip=\textheight
+    \divide\baselineskip by #1
+}
 
 \begin{document}
-\fontsize{16pt}{30pt}\selectfont
-\rubysetup{(-)} %ルビのデフォルト設定 モノルビで
-\begin{comment}
-\end{comment}
-\end{document}
+\Large
+%normalsizeを10ptに設定して14pt
+
+% 一行あたり文字数の指定
+\mojiparline{42}
+% 1ページあたり行数の指定
+\linesparpage{18}
+
+%\fontsize{16pt}{28pt}\selectfont
+\rubysetup{(m)} %ルビのデフォルト設定 モノルビで
+\mcfamily %フォント設定 ヒラノギ細字を使う
+
+%表紙
+\thispagestyle{empty}
+{\fontsize{30pt}{24pt}\selectfont
+蛙のゴム靴\\
+\begin{flushright}
+\ruby{宮沢}{みや|ざわ}\ruby{賢治}{けん|じ}\\
+\end{flushright}
+}
+\newpage
+\setcounter{page}{1}
