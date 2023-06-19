@@ -1,12 +1,12 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.7)  17 JUN 2023 23:17
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  19 JUN 2023 12:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Kunezumi.tex
-(c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Kunezumi.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-06-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
+L3 programming layer <2023-05-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
 \c@@paper=\count184
 (c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo
@@ -153,19 +153,19 @@ LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
 (Font)              scaled to size 13.85594pt on input line 118.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
 (Font)              scaled to size 13.85594pt on input line 118.
-[1] [2] [3] [4] [5] [6] [7] [8] [9] Excluding 'comment' comment. [10] (out/Kunezumi.aux)
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] Excluding 'comment' comment. [16] [17] (out/Kunezumi.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 4062 strings out of 478090
- 62312 string characters out of 5840649
- 1863578 words of memory out of 5000000
- 24497 multiletter control sequences out of 15000+600000
- 519374 words of font info for 66 fonts, out of 8000000 for 9000
+ 4052 strings out of 478163
+ 62090 string characters out of 5842015
+ 1851069 words of memory out of 5000000
+ 24414 multiletter control sequences out of 15000+600000
+ 518274 words of font info for 64 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,5n,48p,475b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 41i,5n,48p,483b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi.dvi (11 pages, 27324 bytes).
+Output written on out/Kunezumi.dvi (18 pages, 28596 bytes).
