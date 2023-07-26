@@ -7,7 +7,7 @@ book]
 \usepackage{pxrubrica} %ルビ追加
 \usepackage[deluxe]{otf}
 \usepackage{comment} %ﾌﾞﾛｯｸでコメントアウト
-
+\usepackage{lineno} %文章に行番号を振る
 
 \AtBeginDvi{\special{papersize=210mm,297mm}} %A4サイズ 210x297
 
@@ -68,6 +68,8 @@ book]
 }
 \newpage
 \setcounter{page}{1}
+
+\pagewiselinenumbers
 
 \indent クという名前のねずみがありました。たいへん\ruby{高慢}{ごう|まん}でそれにそねみ深くって、
 自分をねずみの仲間の一番の学者と思っていました。ほかのねずみが何か生意気なことを言うとエヘンエヘ~ンと言うのが\ruby{癖}{くせ}でした。\\

@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.7)  17 JUN 2023 23:17
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.7)  17 JUL 2023 22:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -80,20 +80,47 @@ Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp>
 \@tempcntf=\count199
 )) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write3
-Excluding comment 'comment')
+Excluding comment 'comment') (c:/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+) (c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count267
+\output=\toks18
+\linenoprevgraf=\count268
+\linenumbersep=\dimen168
+\linenumberwidth=\dimen169
+\c@linenumber=\count269
+\c@pagewiselinenumber=\count270
+\c@LN@truepage=\count271
+\c@internallinenumber=\count272
+\c@internallinenumbers=\count273
+\quotelinenumbersep=\dimen170
+\bframerule=\dimen171
+\bframesep=\dimen172
+\bframebox=\box73
+LaTeX Info: Redefining \\ on input line 3180.
+)
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 48.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 9.6222pt on input line 48.
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
-\l__pdf_internal_box=\box73
-\g__pdf_backend_object_int=\count266
-\l__pdf_backend_content_box=\box74
-\l__pdf_backend_model_box=\box75
-\g__pdf_backend_annotation_int=\count267
-\g__pdf_backend_link_int=\count268
-\g__pdf_backend_link_sf_int=\count269
+\l__pdf_internal_box=\box74
+\g__pdf_backend_object_int=\count274
+\l__pdf_backend_content_box=\box75
+\l__pdf_backend_model_box=\box76
+\g__pdf_backend_annotation_int=\count275
+\g__pdf_backend_link_int=\count276
+\g__pdf_backend_link_sf_int=\count277
 )
 
 LaTeX Warning: Unused global option(s):
@@ -125,7 +152,7 @@ LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 49.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 49.
-\c@mpl=\count270
+\c@mpl=\count278
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 28.86658pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
@@ -146,13 +173,17 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 72.
+(Font)              scaled to size 6.92796pt on input line 74.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 72.
+(Font)              scaled to size 6.92796pt on input line 74.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 118.
+(Font)              scaled to size 13.85594pt on input line 120.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 118.
+(Font)              scaled to size 13.85594pt on input line 120.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 4.8111pt on input line 233.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 4.8111pt on input line 233.
 [1] [2] [3] [4] [5] [6] [7] [8] [9] Excluding 'comment' comment. [10] (out/Kunezumi.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -160,12 +191,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4062 strings out of 478090
- 62312 string characters out of 5840649
- 1863578 words of memory out of 5000000
- 24497 multiletter control sequences out of 15000+600000
- 519374 words of font info for 66 fonts, out of 8000000 for 9000
+ 5032 strings out of 478090
+ 77565 string characters out of 5840649
+ 1866578 words of memory out of 5000000
+ 25446 multiletter control sequences out of 15000+600000
+ 519876 words of font info for 69 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 41i,5n,48p,475b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 54i,5n,62p,475b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi.dvi (11 pages, 27324 bytes).
+Output written on out/Kunezumi.dvi (11 pages, 30460 bytes).

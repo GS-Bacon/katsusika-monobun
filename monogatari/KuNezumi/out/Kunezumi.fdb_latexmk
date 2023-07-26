@@ -1,22 +1,28 @@
 # Fdb version 4
-["dvipdf"] 1687011473 "out/Kunezumi.dvi" "out/Kunezumi.pdf" "out/Kunezumi" 1687011473 0
-  "out/Kunezumi.dvi" 1687011473 27324 7dc7ac505935f040a3562c5ccff78207 "latex"
+["dvipdf"] 1689601127 "out/Kunezumi.dvi" "out/Kunezumi.pdf" "out/Kunezumi" 1689601128 0
+  "out/Kunezumi.dvi" 1689601127 30460 ead09113af23e346e7480c00980c21d8 "latex"
   (generated)
   "out/Kunezumi.pdf"
   (rewritten before read)
-["latex"] 1687011472 "c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Kunezumi.tex" "out/Kunezumi.dvi" "Kunezumi" 1687011473 0
-  "Kunezumi.tex" 1687011471 21578 c35952a7b9be15d767ec296835bf3e72 ""
-  "c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Kunezumi.tex" 1687011471 21578 c35952a7b9be15d767ec296835bf3e72 ""
+["latex"] 1689601126 "c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Kunezumi.tex" "out/Kunezumi.dvi" "Kunezumi" 1689601128 0
+  "Kunezumi.tex" 1689601125 21650 a1c34a82bb9bc3ceaed2a891bfcef964 ""
+  "c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Kunezumi.tex" 1689601125 21650 a1c34a82bb9bc3ceaed2a891bfcef964 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1686136106 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1686136106 1288 655e228510b4c2a1abe905c368440826 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1686136106 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmss8.tfm" 1686136106 1296 d77f431d10d47c8ea2cc18cf45346274 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminb-h.tfm" 1686136921 504 e15e0ced49bc0fca57e32b1199da50ac ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminb-v.tfm" 1686136921 504 90cc0bfc6764b11e5837e72f13617993 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm" 1686136921 504 e15e0ced49bc0fca57e32b1199da50ac ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm" 1686136921 504 90cc0bfc6764b11e5837e72f13617993 ""
+  "c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty" 1686137141 17859 4409f8f50cd365c68e684407e5350b1b ""
   "c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty" 1686136169 10197 204f75d5d8d88aa345a8c402e879e63b ""
+  "c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1686136508 46845 3b58f70c6e861a13d927bff09d35ecbc ""
   "c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty" 1686136762 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty" 1686136985 22555 6d8e155cfef6d82c3d5c742fea7c992e ""
+  "c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty" 1686136986 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1686136988 35615 a6d1a4c99e7a18682a65dab9f3f2d901 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty" 1686137102 154524 d78e0d3f9a3cdfd2cab61cd321c9281c ""
   "c:/texlive/2023/texmf-dist/tex/platex/base/plext.sty" 1686137614 19428 229dd8384b47a96e0c81e05026086783 ""
   "c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls" 1686137614 26109 4ec1d799eefdf41ccea6ca7d37aeb473 ""
   "c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo" 1686137614 8711 7616107f2692871a9e2f637f0558ff3f ""
@@ -26,7 +32,7 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1686135757 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1686138561 6637418 5a19b958b8209629756e19c8cffedf05 ""
   "c:/texlive/2023/texmf.cnf" 1686138455 713 e69b156964470283e0530f5060668171 ""
-  "out/Kunezumi.aux" 1687011473 33 cd8a9e253be16178be412705367a589a "latex"
+  "out/Kunezumi.aux" 1689601127 2396 8211c57c97a804c87f4fc858a8051d85 "latex"
   (generated)
   "out/Kunezumi.aux"
   "out/Kunezumi.dvi"
