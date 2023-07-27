@@ -4,8 +4,8 @@ INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt
-INPUT c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi.tex
-OUTPUT out/Kunezumi.log
+INPUT c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
+OUTPUT out/Kunezumi_happyou.log
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
@@ -98,10 +98,10 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
-INPUT out/Kunezumi.aux
-INPUT out/Kunezumi.aux
-INPUT out/Kunezumi.aux
-OUTPUT out/Kunezumi.aux
+INPUT out/Kunezumi_happyou.aux
+INPUT out/Kunezumi_happyou.aux
+INPUT out/Kunezumi_happyou.aux
+OUTPUT out/Kunezumi_happyou.aux
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -110,7 +110,7 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm
-OUTPUT out/Kunezumi.dvi
+OUTPUT out/Kunezumi_happyou.dvi
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminb-v.tfm
@@ -120,4 +120,4 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminb-v.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminb-h.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
-INPUT out/Kunezumi.aux
+INPUT out/Kunezumi_happyou.aux

@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  27 JUL 2023 16:57
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  27 JUL 2023 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi.tex
-(c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
 L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
@@ -162,8 +162,8 @@ File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [book].
 
-(out/Kunezumi.aux)
-\openout1 = `Kunezumi.aux'.
+(out/Kunezumi_happyou.aux)
+\openout1 = `Kunezumi_happyou.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
 LaTeX Font Info:    ... okay on input line 56.
@@ -344,7 +344,7 @@ Overfull \hbox (21.14644pt too wide) in paragraph at lines 298--314
 []\JT1/hmc/m/n/14.4 このフ ァイルは 、 インタ ーネ ットの図書館 、 \OT1/cmr/m/n/14.4 "http://www.aozora.gr.jp/">\JT1/hmc/m/n/14.4 青空文庫 （\OT1/cmr/m/n/14.4 http://www.aozora.gr.jp/\JT1/hmc/m/n/14.4 ）
  []
 
-[13] (out/Kunezumi.aux)
+[13] (out/Kunezumi_happyou.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
@@ -352,11 +352,11 @@ LaTeX Font Warning: Size substitutions with differences
  ) 
 Here is how much of TeX's memory you used:
  6027 strings out of 478148
- 90834 string characters out of 5841816
+ 90930 string characters out of 5841816
  1854606 words of memory out of 5000000
  26356 multiletter control sequences out of 15000+600000
  519136 words of font info for 68 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 54i,11n,62p,485b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 54i,11n,62p,493b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi.dvi (14 pages, 73832 bytes).
+Output written on out/Kunezumi_happyou.dvi (14 pages, 73832 bytes).

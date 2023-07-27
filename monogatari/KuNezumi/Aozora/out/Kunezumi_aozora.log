@@ -1,16 +1,12 @@
-<<<<<<< HEAD:monogatari/KuNezumi/out/Kunezumi.log
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.7)  17 JUL 2023 22:38
-=======
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  19 JUN 2023 12:36
->>>>>>> 16303def763a4bd6a9bc0378e588ec96dd822d22:monogatari/KuNezumi/Aozora/out/Kunezumi.log
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  27 JUL 2023 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi.tex
-(c:/Users/A0216/Documents/monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Aozora/Kunezumi_aozora.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Aozora/Kunezumi_aozora.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-05-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
+L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
 \c@@paper=\count184
 (c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo
@@ -130,8 +126,8 @@ File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [book].
 
-(out/Kunezumi.aux)
-\openout1 = `Kunezumi.aux'.
+(out/Kunezumi_aozora.aux)
+\openout1 = `Kunezumi_aozora.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
 LaTeX Font Info:    ... okay on input line 48.
@@ -183,41 +179,24 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
 (Font)              scaled to size 13.85594pt on input line 120.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-<<<<<<< HEAD:monogatari/KuNezumi/out/Kunezumi.log
 (Font)              scaled to size 13.85594pt on input line 120.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 233.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 4.8111pt on input line 233.
-[1] [2] [3] [4] [5] [6] [7] [8] [9] Excluding 'comment' comment. [10] (out/Kunezumi.aux)
-=======
-(Font)              scaled to size 13.85594pt on input line 118.
-[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] Excluding 'comment' comment. [16] [17] (out/Kunezumi.aux)
->>>>>>> 16303def763a4bd6a9bc0378e588ec96dd822d22:monogatari/KuNezumi/Aozora/out/Kunezumi.log
+[1] [2] [3] [4] [5] [6] [7] [8] [9] Excluding 'comment' comment. [10] (out/Kunezumi_aozora.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD:monogatari/KuNezumi/out/Kunezumi.log
- 5032 strings out of 478090
- 77565 string characters out of 5840649
- 1866578 words of memory out of 5000000
- 25446 multiletter control sequences out of 15000+600000
- 519876 words of font info for 69 fonts, out of 8000000 for 9000
+ 5032 strings out of 478148
+ 77676 string characters out of 5841816
+ 1866606 words of memory out of 5000000
+ 25388 multiletter control sequences out of 15000+600000
+ 518776 words of font info for 67 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 54i,5n,62p,475b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 54i,5n,62p,491b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi.dvi (11 pages, 30460 bytes).
-=======
- 4052 strings out of 478163
- 62090 string characters out of 5842015
- 1851069 words of memory out of 5000000
- 24414 multiletter control sequences out of 15000+600000
- 518274 words of font info for 64 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
- 41i,5n,48p,483b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on out/Kunezumi.dvi (18 pages, 28596 bytes).
->>>>>>> 16303def763a4bd6a9bc0378e588ec96dd822d22:monogatari/KuNezumi/Aozora/out/Kunezumi.log
+Output written on out/Kunezumi_aozora.dvi (11 pages, 30460 bytes).
