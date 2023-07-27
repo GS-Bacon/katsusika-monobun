@@ -1,0 +1,115 @@
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  27 JUL 2023 12:34
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Aozora/Kunezumi_Happyou.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Aozora/Kunezumi_Happyou.tex
+pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
+L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
+Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
+\c@@paper=\count184
+(c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo
+File: tsize10.clo 2020/09/30 v1.8f Standard pLaTeX file (size option)
+) (c:/texlive/2023/texmf-dist/tex/platex/base/plext.sty
+Package: plext 2020/10/07 v1.2m pLaTeX package file (community edition)
+\@floatbox=\box68
+\floatwidth=\dimen156
+\floatheight=\dimen157
+\floatruletick=\dimen158
+\captionfloatsep=\dimen159
+\captionwidth=\dimen160
+\@captionbox=\box69
+LaTeX Info: Redefining \parbox on input line 333.
+\save@ybaselineshift=\dimen161
+\save@tbaselineshift=\dimen162
+\@picwd=\dimen163
+\rensujiskip=\skip48
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 619.
+\toclineskip=\dimen164
+\@lnumwidth=\dimen165
+\bibindent=\dimen166
+\heisei=\count193
+) (c:/texlive/2023/texmf-dist/tex/platex/pxrubrica/pxrubrica.sty
+Package: pxrubrica 2023/03/01 v1.3e PX Japanese-style ruby
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\pxrr@cnta=\count194
+\pxrr@cntr=\count195
+\pxrr@dima=\dimen167
+\pxrr@boxa=\box70
+\pxrr@boxb=\box71
+\pxrr@boxr=\box72
+) (c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/otf.sty
+Package: otf 2023/02/23 TeX JP org, v1.7b8 psitau, u0.28 ttk
+Package otf Info: Autodetected engine: pLaTeX on input line 63.
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 333.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY1/mc/m/n --> JY1/hmc/m/n on input line 333.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hmc/m/n on input line 333.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/hmc/m/n --> JY1/hmc/bx/n on input line 335.
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 336.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/gt/m/n --> JY1/hgt/m/n on input line 336.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY1/hgt/m/n --> JY1/hgt/bx/n on input line 337.
+(c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/ajmacros.sty
+Package: ajmacros 2019/04/01 21:00 iNOUE Koich! <inoue@ma.ns.musashi-tech.ac.jp>
+\@tempcntc=\count196
+\@tempcntd=\count197
+\@tempcnte=\count198
+\@tempcntf=\count199
+)) (c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+Excluding comment 'comment')
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 47.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 47.
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
+File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
+\l__pdf_internal_box=\box73
+\g__pdf_backend_object_int=\count266
+\l__pdf_backend_content_box=\box74
+\l__pdf_backend_model_box=\box75
+\g__pdf_backend_annotation_int=\count267
+\g__pdf_backend_link_int=\count268
+\g__pdf_backend_link_sf_int=\count269
+)
+
+LaTeX Warning: Unused global option(s):
+    [book].
+
+(out/Kunezumi_Happyou.aux
+out/Kunezumi_Happyou.aux:2: Undefined control sequence.
+l.2 \@LN
+        {0}{1} 
+Here is how much of TeX's memory you used:
+ 4028 strings out of 478148
+ 61992 string characters out of 5841816
+ 1844606 words of memory out of 5000000
+ 24413 multiletter control sequences out of 15000+600000
+ 516360 words of font info for 51 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 41i,0n,48p,492b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+No pages of output.

@@ -1,0 +1,29 @@
+# Fdb version 4
+["dvipdf"] 1690428859 "out/Kunezumi_Happyou.dvi" "out/Kunezumi_Happyou.pdf" "out/Kunezumi_Happyou" 1690428859 0
+  "out/Kunezumi_Happyou.dvi" 1690428859 31424 e53f59ddebdf81094a51a73aaeb52d7f "latex"
+  (generated)
+  "out/Kunezumi_Happyou.pdf"
+  (rewritten before read)
+["latex"] 1690428892 "c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Aozora/Kunezumi_Happyou.tex" "out/Kunezumi_Happyou.dvi" "Kunezumi_Happyou" 1690428892 2
+  "Kunezumi_Happyou.tex" 1690428892 21619 f388acaebd33b5ebdeeb4a3b8d027811 ""
+  "c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Aozora/Kunezumi_Happyou.tex" 1690428892 21619 f388acaebd33b5ebdeeb4a3b8d027811 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm" 1685675824 504 e15e0ced49bc0fca57e32b1199da50ac ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm" 1685675824 504 90cc0bfc6764b11e5837e72f13617993 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/comment/comment.sty" 1685675058 10197 204f75d5d8d88aa345a8c402e879e63b ""
+  "c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty" 1685675638 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1685675904 35615 a6d1a4c99e7a18682a65dab9f3f2d901 ""
+  "c:/texlive/2023/texmf-dist/tex/platex/base/plext.sty" 1685676566 19428 229dd8384b47a96e0c81e05026086783 ""
+  "c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls" 1685676566 26109 4ec1d799eefdf41ccea6ca7d37aeb473 ""
+  "c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo" 1685676566 8711 7616107f2692871a9e2f637f0558ff3f ""
+  "c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/ajmacros.sty" 1685675825 31169 82da95c56dec9c45e5b9734751394461 ""
+  "c:/texlive/2023/texmf-dist/tex/platex/japanese-otf/otf.sty" 1685675825 24116 2d8ef72072243ba775c3c0dbae748f7d ""
+  "c:/texlive/2023/texmf-dist/tex/platex/pxrubrica/pxrubrica.sty" 1685676648 81970 095cfc9d6c9ba052e1bdca7dc85ae95c ""
+  "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1685674601 40967 d940221f8762fd5848760382d97d1226 ""
+  "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1685677622 6635505 8a4234c79e034f449af1f48ef52e4d81 ""
+  "c:/texlive/2023/texmf.cnf" 1685677531 713 e69b156964470283e0530f5060668171 ""
+  "out/Kunezumi_Happyou.aux" 1690428859 2683 9d08661390ccdeec8b8ef56b1d05511f "latex"
+  (generated)
+  "out/Kunezumi_Happyou.aux"
+  "out/Kunezumi_Happyou.dvi"
+  "out/Kunezumi_Happyou.log"
+  (rewritten before read)
