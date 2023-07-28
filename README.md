@@ -8,6 +8,8 @@
 katsusika-monobun
     ├─monogatari：物語ごとにフォルダ分け
     │  ├─HokusyuSyougun:北守将軍と三人兄弟の医者
+    │  │  └─Happyou：年始等発表用にルビや行番号、パート分けをしたもの
+    │  │  └─Aozora：青空文庫から原文ママ
     │  │  └─out：PDF等のログはここ
     │  ・
     │  ・
