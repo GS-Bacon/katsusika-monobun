@@ -12,10 +12,11 @@ book]
 \usepackage{plext}
 \usepackage{graphics}
 \usepackage{xcolor}% 文字に色を付ける
+\usepackage{pdfpages}%面付設定
 
 \renewcommand{\headrulewidth}{1pt} %ヘッダー罫線を消す
 \renewcommand\linenumberfont{\normalfont\bfseries\large}
-\renewcommand\LineNumber{{\color{lightgray}\raisebox{-2.5mm}{\rotatebox{90}{\thelinenumber}}}}%行番号を回転とズレた分調整
+\renewcommand\LineNumber{{\color{gray}\raisebox{-2.5mm}{\rotatebox{90}{\thelinenumber}}}}%行番号を回転とズレた分調整
 
 \AtBeginDvi{\special{papersize=210mm,297mm}} %A4サイズ 210x297
 \setlength{\topmargin}{15mm} % ページ上部余白の設定
@@ -52,8 +53,9 @@ book]
     \def\linesparpage#1{
         \baselineskip=\textheight
         \divide\baselineskip by #1
-        }
-        \begin{document}
+   }
+\begin{document}
+
 \Large
 %normalsizeを10ptに設定して14pt
 

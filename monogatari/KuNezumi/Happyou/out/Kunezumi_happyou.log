@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  27 JUL 2023 17:01
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  28 JUL 2023 13:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
 (c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
+L3 programming layer <2023-05-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
 \c@@paper=\count184
 (c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo
@@ -92,32 +92,26 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip58
 \f@nch@O@orf=\skip59
 ) (c:/texlive/2023/texmf-dist/tex/latex/lineno/lineno.sty
-Package: lineno 2023/05/20 line numbers on paragraphs v5.3
-(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count266
-) (c:/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-(c:/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (c:/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-\linenopenalty=\count267
+Package: lineno 2023/01/19 line numbers on paragraphs v5.1
+\linenopenalty=\count266
 \output=\toks18
-\linenoprevgraf=\count268
+\linenoprevgraf=\count267
 \linenumbersep=\dimen168
 \linenumberwidth=\dimen169
-\c@linenumber=\count269
-\c@pagewiselinenumber=\count270
-\c@LN@truepage=\count271
-\c@internallinenumber=\count272
-\c@internallinenumbers=\count273
+\c@linenumber=\count268
+\c@pagewiselinenumber=\count269
+\c@LN@truepage=\count270
+\c@internallinenumber=\count271
+\c@internallinenumbers=\count272
 \quotelinenumbersep=\dimen170
 \bframerule=\dimen171
 \bframesep=\dimen172
 \bframebox=\box73
-LaTeX Info: Redefining \\ on input line 3180.
+(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+)
+LaTeX Info: Redefining \\ on input line 3131.
 ) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
@@ -143,20 +137,65 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (c:/texlive/2023/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
+(c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count274
+\calc@Bcount=\count275
+\calc@Adimen=\dimen173
+\calc@Bdimen=\dimen174
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count276
+\calc@Cskip=\skip62
+) (c:/texlive/2023/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen175
+\ESO@tempdimb=\dimen176
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen177
+\Gin@req@width=\dimen178
+)
+\AM@pagewidth=\dimen179
+\AM@pageheight=\dimen180
+\AM@fboxrule=\dimen181
+(c:/texlive/2023/texmf-dist/tex/latex/pdfpages/ppnull.def
+File: ppnull.def 2022/12/19 v0.5x Pdfpages dummy driver (AM)
+
+Package pdfpages Warning: I will use a dummy \includepdf command
+(pdfpages)                which will insert empty pages instead of the actual
+(pdfpages)                PDF file because we are running in DVI mode or with
+(pdfpages)                dvips driver.
+
+)
+\pdfpages@includegraphics@status=\count277
+\AM@pagebox=\box74
+\AM@global@opts=\toks19
+\AM@pagecnt=\count278
+\AM@toc@title=\toks20
+\AM@lof@heading=\toks21
+\c@AM@survey=\count279
+\AM@templatesizebox=\box75
 )
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 56.
+(Font)              scaled to size 9.6222pt on input line 57.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 56.
+(Font)              scaled to size 9.6222pt on input line 57.
 (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
-\l__pdf_internal_box=\box74
-\g__pdf_backend_object_int=\count274
-\l__pdf_backend_content_box=\box75
-\l__pdf_backend_model_box=\box76
-\g__pdf_backend_annotation_int=\count275
-\g__pdf_backend_link_int=\count276
-\g__pdf_backend_link_sf_int=\count277
+\l__pdf_internal_box=\box76
+\g__pdf_backend_object_int=\count280
+\l__pdf_backend_content_box=\box77
+\l__pdf_backend_model_box=\box78
+\g__pdf_backend_annotation_int=\count281
+\g__pdf_backend_link_int=\count282
+\g__pdf_backend_link_sf_int=\count283
 )
 
 LaTeX Warning: Unused global option(s):
@@ -165,63 +204,73 @@ LaTeX Warning: Unused global option(s):
 (out/Kunezumi_happyou.aux)
 \openout1 = `Kunezumi_happyou.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-《縦組モード》
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+《縦組モード》 (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+(c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
+))
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 57.
+(Font)              scaled to size 13.85594pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 57.
-\c@mpl=\count278
+(Font)              scaled to size 13.85594pt on input line 59.
+\c@mpl=\count284
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 71.
+(Font)              scaled to size 28.86658pt on input line 73.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 71.
+(Font)              scaled to size 28.86658pt on input line 73.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <30> not available
-(Font)              size <24.88> substituted on input line 71.
+(Font)              size <24.88> substituted on input line 73.
 
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 74.
+(Font)              scaled to size 14.43329pt on input line 76.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 74.
+(Font)              scaled to size 14.43329pt on input line 76.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 74.
+(Font)              size <14.4> substituted on input line 76.
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 81.
+(Font)              scaled to size 6.92796pt on input line 83.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 81.
+(Font)              scaled to size 6.92796pt on input line 83.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 97.
+(Font)              scaled to size 13.85594pt on input line 99.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 97.
+(Font)              scaled to size 13.85594pt on input line 99.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 97.
+(Font)              scaled to size 11.54663pt on input line 99.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 97.
+(Font)              scaled to size 11.54663pt on input line 99.
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 97.
+(Font)              No change on input line 99.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -231,7 +280,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [1]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 116.
+(Font)              No change on input line 118.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -241,7 +290,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [2]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 137.
+(Font)              No change on input line 139.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -251,7 +300,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [3]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 155.
+(Font)              No change on input line 157.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -261,7 +310,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [4]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 177.
+(Font)              No change on input line 179.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -271,7 +320,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [5]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 195.
+(Font)              No change on input line 197.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -281,7 +330,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [6]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 211.
+(Font)              No change on input line 213.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -291,7 +340,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [7]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 225.
+(Font)              No change on input line 227.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -301,7 +350,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [8]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 243.
+(Font)              No change on input line 245.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -311,7 +360,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [9]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 266.
+(Font)              No change on input line 268.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -321,7 +370,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [10]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 284.
+(Font)              No change on input line 286.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -331,7 +380,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [11]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 296.
+(Font)              No change on input line 298.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -340,7 +389,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
 
 [12] Excluding 'comment' comment.
-Overfull \hbox (21.14644pt too wide) in paragraph at lines 298--314
+Overfull \hbox (21.14644pt too wide) in paragraph at lines 300--316
 []\JT1/hmc/m/n/14.4 このフ ァイルは 、 インタ ーネ ットの図書館 、 \OT1/cmr/m/n/14.4 "http://www.aozora.gr.jp/">\JT1/hmc/m/n/14.4 青空文庫 （\OT1/cmr/m/n/14.4 http://www.aozora.gr.jp/\JT1/hmc/m/n/14.4 ）
  []
 
@@ -351,12 +400,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 6027 strings out of 478148
- 90930 string characters out of 5841816
- 1854606 words of memory out of 5000000
- 26356 multiletter control sequences out of 15000+600000
+ 6660 strings out of 478163
+ 101830 string characters out of 5842015
+ 1857069 words of memory out of 5000000
+ 26950 multiletter control sequences out of 15000+600000
  519136 words of font info for 68 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 54i,11n,62p,493b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,11n,65p,493b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi_happyou.dvi (14 pages, 73832 bytes).
+Output written on out/Kunezumi_happyou.dvi (14 pages, 73936 bytes).
