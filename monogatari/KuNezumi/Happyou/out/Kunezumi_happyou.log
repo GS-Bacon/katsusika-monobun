@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  28 JUL 2023 13:10
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  31 JUL 2023 12:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
-(c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
 L3 programming layer <2023-05-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
@@ -401,11 +401,11 @@ LaTeX Font Warning: Size substitutions with differences
  ) 
 Here is how much of TeX's memory you used:
  6660 strings out of 478163
- 101830 string characters out of 5842015
+ 101878 string characters out of 5842015
  1857069 words of memory out of 5000000
  26950 multiletter control sequences out of 15000+600000
  519136 words of font info for 68 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 66i,11n,65p,493b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,11n,65p,509b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on out/Kunezumi_happyou.dvi (14 pages, 73936 bytes).

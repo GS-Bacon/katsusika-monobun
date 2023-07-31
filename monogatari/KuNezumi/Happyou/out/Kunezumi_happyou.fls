@@ -1,10 +1,10 @@
-PWD c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou
+PWD c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt
-INPUT c:/Users/A0216/Documents/monobun/katsusika-monobun-1/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
+INPUT c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
 OUTPUT out/Kunezumi_happyou.log
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
