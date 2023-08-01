@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  1 AUG 2023 14:35
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  1 AUG 2023 15:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -326,7 +326,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [5]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 218.
+(Font)              No change on input line 221.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -336,7 +336,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [6]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 234.
+(Font)              No change on input line 245.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -346,7 +346,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [7]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 248.
+(Font)              No change on input line 259.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -356,7 +356,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [8]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 266.
+(Font)              No change on input line 277.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -366,7 +366,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [9]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 289.
+(Font)              No change on input line 300.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -376,7 +376,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [10]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 307.
+(Font)              No change on input line 318.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -386,7 +386,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 
 [11]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 319.
+(Font)              No change on input line 330.
 
 Package fancyhdr Warning: \headheight is too small (14.22636pt): 
 (fancyhdr)                Make it at least 17.0pt, for example:
@@ -395,7 +395,7 @@ Package fancyhdr Warning: \headheight is too small (14.22636pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
 
 [12]
-Overfull \hbox (21.14644pt too wide) in paragraph at lines 321--335
+Overfull \hbox (21.14644pt too wide) in paragraph at lines 332--346
 []\JT1/hmc/m/n/14.4 このフ ァイルは 、 インタ ーネ ットの図書館 、 \OT1/cmr/m/n/14.4 "http://www.aozora.gr.jp/">\JT1/hmc/m/n/14.4 青空文庫 （\OT1/cmr/m/n/14.4 http://www.aozora.gr.jp/\JT1/hmc/m/n/14.4 ）
  []
 
@@ -414,4 +414,4 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  66i,11n,65p,742b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi_happyou.dvi (14 pages, 83028 bytes).
+Output written on out/Kunezumi_happyou.dvi (14 pages, 85188 bytes).
