@@ -1,71 +1,13 @@
 \documentclass[
-a4paper,
-10pt,
-book]
-{tarticle}
-% A4 20pt book tarticle→縦書き
-\usepackage{pxrubrica} %ルビ追加
-\usepackage[deluxe]{otf}
-\usepackage{comment} %ﾌﾞﾛｯｸでコメントアウト
-\usepackage{fancyhdr}
-\usepackage{lineno} %文章に行番号を振る
-\usepackage{plext}
-\usepackage{graphics}
-\usepackage{xcolor}% 文字に色を付ける
-\usepackage{pdfpages}%面付設定
+    a4paper,
+    10pt,
+    book]
+    {tarticle}
+\usepackage{Kunezumi_happyou}
 
-\renewcommand{\headrulewidth}{1pt} %ヘッダー罫線を消す
-\renewcommand\linenumberfont{\normalfont\bfseries\large}
-\renewcommand\LineNumber{{\color{gray}\raisebox{-2.5mm}{\rotatebox{90}{\thelinenumber}}}}%行番号を回転とズレた分調整
-
-\AtBeginDvi{\special{papersize=210mm,297mm}} %A4サイズ 210x297
-\setlength{\topmargin}{15mm} % ページ上部余白の設定
-\addtolength{\topmargin}{-1in} % 初期設定の1インチ分を引いておく。
-
-\setlength{\oddsidemargin}{22mm} % 同、奇数ページ左。
-\addtolength{\oddsidemargin}{-1in}
-
-\setlength{\evensidemargin}{28mm} % 同、偶数ページ左。
-\addtolength{\evensidemargin}{-1in}
-
-\setlength{\textwidth}{245mm} % 文書領域の幅（上下）。縦書と横書でパラメータ（width / height）の向きが変わる。
-
-\setlength{\textheight}{160mm} % 文書領域の幅（左右）。
-\setlength{\headsep}{10mm} % ヘッダ下端と本文領域との間隔。私の場合、ヘッダをつけぬので、この辺の数値は0である。しかし headsep って何や。headseparation？ headseparator？
-\setlength{\headheight}{5mm} % headheight → ヘッダの高さ。ヘッダはつけないが、設定しておかぬと TeX の自動配置の際にデフォルト値（知らんけど）を入れられそう。
-\setlength{\topskip}{0mm} % ここは改善の余地あり→下段 ［参考］ "行位置が揃った段組" を見ること。
-\setlength{\parskip}{0pt} % 段落間の自動空白調整を切る。parskip って何の略や。parindent っちゅうのもあるけど、par って何なんや？ → par とは paragraph（段落）のことらしい。 parindent は、1行目の字下げ幅。
-
-\fancypagestyle{plain}{\pagestyle{fancy}}
-%1ページあたりの行数、文字数を設定するためのなんかよくわからんやつ
-\makeatletter
-\def\mojiparline#1{
-    \newcounter{mpl}
-    \setcounter{mpl}{#1}
-    \@tempdima=\linewidth
-    \advance\@tempdima by-\value{mpl}zw
-    \addtocounter{mpl}{-1}
-    \divide\@tempdima by \value{mpl}
-    \advance\kanjiskip by\@tempdima
-    \advance\parindent by\@tempdima
-    }
-    \makeatother
-    \def\linesparpage#1{
-        \baselineskip=\textheight
-        \divide\baselineskip by #1
-   }
 \begin{document}
-
 \Large
-%normalsizeを10ptに設定して14pt
 
-% 一行あたり文字数の指定
-\mojiparline{42}
-% 1ページあたり行数の指定
-\linesparpage{18}
-
-%\fontsize{16pt}{28pt}\selectfont
-\rubysetup{(m)} %ルビのデフォルト設定 モノルビで
 \mcfamily %フォント設定 ヒラノギ細字を使う
 
 %表紙
