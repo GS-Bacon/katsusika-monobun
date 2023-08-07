@@ -1,19 +1,16 @@
 # Fdb version 4
-["dvipdf"] 1691383324 "out/Kunezumi_happyou.dvi" "out/Kunezumi_happyou.pdf" "out/Kunezumi_happyou" 1691383325 0
-  "out/Kunezumi_happyou.dvi" 1691383324 87624 56055df3f580a1cc180cf71faa039d5c "latex"
+["dvipdf"] 1691383831 "out/KaerunoGomugutu.dvi" "out/KaerunoGomugutu.pdf" "out/KaerunoGomugutu" 1691383831 0
+  "out/KaerunoGomugutu.dvi" 1691383830 34880 0c23335396b978af0c41ba77bfcbc6ef "latex"
   (generated)
-  "out/Kunezumi_happyou.pdf"
+  "out/KaerunoGomugutu.pdf"
   (rewritten before read)
-["latex"] 1691383323 "c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex" "out/Kunezumi_happyou.dvi" "Kunezumi_happyou" 1691383325 0
-  "Kunezumi_happyou.tex" 1691383322 28519 e0d72918d7168a24304c42a1fdbaa7e5 ""
-  "c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex" 1691383322 28519 e0d72918d7168a24304c42a1fdbaa7e5 ""
+["latex"] 1691383830 "c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" "out/KaerunoGomugutu.dvi" "KaerunoGomugutu" 1691383831 0
+  "KaerunoGomugutu.tex" 1691383829 26714 047e0dedda749c5d3d8325d4206df311 ""
+  "c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" 1691383829 26714 047e0dedda749c5d3d8325d4206df311 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1682926784 3524 cb3e574dea2d1052e39280babc910dc8 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1683504868 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm" 1683505049 1536 3290a75021d32d016616fe527bc9884c ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1683504868 1288 655e228510b4c2a1abe905c368440826 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1683504868 1292 296a67155bdbfc32aa9c636f21e91433 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm" 1683504868 1508 efecb4a315fe0975509670a272d75ef5 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminb-h.tfm" 1683505252 504 e15e0ced49bc0fca57e32b1199da50ac ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminb-v.tfm" 1683505252 504 90cc0bfc6764b11e5837e72f13617993 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm" 1683505252 504 e15e0ced49bc0fca57e32b1199da50ac ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm" 1683505252 504 90cc0bfc6764b11e5837e72f13617993 ""
   "c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty" 1683505234 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -48,10 +45,10 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1683504591 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1683506034 6631330 317e932127968306c75382891e46096f ""
   "c:/texlive/2023/texmf.cnf" 1683505947 713 e69b156964470283e0530f5060668171 ""
-  "daihon.sty" 1691383320 2822 51919cdefa3454178f64eb0fa4d03c17 ""
-  "out/Kunezumi_happyou.aux" 1691383324 2524 8b62261e3cdc5824fd4413da0587e5ec "latex"
+  "daihon.sty" 1691383516 2822 d0b6e8c6e2e8cc031c0c27d656abd02e ""
+  "out/KaerunoGomugutu.aux" 1691383830 33 dca2c25acf2dd0fcc68a5b8e6d3e57b9 "latex"
   (generated)
-  "out/Kunezumi_happyou.aux"
-  "out/Kunezumi_happyou.dvi"
-  "out/Kunezumi_happyou.log"
+  "out/KaerunoGomugutu.aux"
+  "out/KaerunoGomugutu.dvi"
+  "out/KaerunoGomugutu.log"
   (rewritten before read)

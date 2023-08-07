@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  7 AUG 2023 13:42
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.5.8)  7 AUG 2023 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
-(c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KuNezumi/Happyou/Kunezumi_happyou.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
 L3 programming layer <2023-05-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
@@ -201,8 +201,8 @@ File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [book].
 
-(out/Kunezumi_happyou.aux)
-\openout1 = `Kunezumi_happyou.aux'.
+(out/KaerunoGomugutu.aux)
+\openout1 = `KaerunoGomugutu.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -238,173 +238,41 @@ LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 13.85594pt on input line 9.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 15.
+(Font)              scaled to size 28.86658pt on input line 13.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 15.
+(Font)              scaled to size 28.86658pt on input line 13.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <30> not available
-(Font)              size <24.88> substituted on input line 15.
+(Font)              size <24.88> substituted on input line 13.
 
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 18.
+(Font)              scaled to size 14.43329pt on input line 16.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 18.
+(Font)              scaled to size 14.43329pt on input line 16.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 18.
+(Font)              size <14.4> substituted on input line 16.
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 25.
+(Font)              scaled to size 6.92796pt on input line 22.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 25.
-LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 42.
-LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 42.
-LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 42.
-LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 42.
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 43.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[1]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 61.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[2] [3]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 78.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[4] Excluding 'comment' comment.
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 108.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[5]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 141.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[6]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 162.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[7]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 186.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[8]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 206.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[9]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 228.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[10]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 251.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[11] [12]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 270.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[13] [14]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 282.
-
-Package fancyhdr Warning: \headheight is too small (14.22636pt): 
-(fancyhdr)                Make it at least 17.0pt, for example:
-(fancyhdr)                \setlength{\headheight}{17.0pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.77364pt}.
-
-[15]
-Overfull \hbox (82.26329pt too wide) in paragraph at lines 284--298
-[]\JT1/hmc/m/n/14.4 このフ ァイルは 、 インタ ーネ ットの図書館 、 \OT1/cmr/m/n/14.4 "http://www.aozora.gr.jp/">\JT1/hmc/m/n/14.4 青空文庫 （\OT1/cmr/m/n/14.4 http://www.aozora.gr.jp/\JT1/hmc/m/n/14.4 ）
- []
-
-[16] (out/Kunezumi_happyou.aux)
+(Font)              scaled to size 6.92796pt on input line 22.
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] Excluding 'comment' comment. [16] (out/KaerunoGomugutu.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 6683 strings out of 478163
- 102440 string characters out of 5842015
- 1873069 words of memory out of 5000000
- 26970 multiletter control sequences out of 15000+600000
- 519136 words of font info for 68 fonts, out of 8000000 for 9000
+ 6646 strings out of 478163
+ 102155 string characters out of 5842015
+ 1856069 words of memory out of 5000000
+ 26936 multiletter control sequences out of 15000+600000
+ 518106 words of font info for 62 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 66i,11n,69p,758b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 66i,7n,69p,517b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi_happyou.dvi (17 pages, 87624 bytes).
+Output written on out/KaerunoGomugutu.dvi (17 pages, 34880 bytes).
