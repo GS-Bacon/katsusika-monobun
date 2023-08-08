@@ -1,12 +1,12 @@
 # Fdb version 4
-["dvipdf"] 1691462029 "out/KaerunoGomugutu.dvi" "out/KaerunoGomugutu.pdf" "out/KaerunoGomugutu" 1691462029 0
-  "out/KaerunoGomugutu.dvi" 1691462028 63276 0816ca8216625ce0d8dc859d8c1a2cc6 "latex"
+["dvipdf"] 1691462730 "out/KaerunoGomugutu.dvi" "out/KaerunoGomugutu.pdf" "out/KaerunoGomugutu" 1691462731 0
+  "out/KaerunoGomugutu.dvi" 1691462730 63052 4ec98484d1c7a0422ea6beded85d2076 "latex"
   (generated)
   "out/KaerunoGomugutu.pdf"
   (rewritten before read)
-["latex"] 1691462028 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" "out/KaerunoGomugutu.dvi" "KaerunoGomugutu" 1691462029 0
-  "KaerunoGomugutu.tex" 1691462028 27687 e792f5c0cabb8d2f6645e8b5e923c79e ""
-  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" 1691462028 27687 e792f5c0cabb8d2f6645e8b5e923c79e ""
+["latex"] 1691462730 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" "out/KaerunoGomugutu.dvi" "KaerunoGomugutu" 1691462731 0
+  "KaerunoGomugutu.tex" 1691462730 27641 e7eff19e023652999cbdec8984b32856 ""
+  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" 1691462730 27641 e7eff19e023652999cbdec8984b32856 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm" 1685675298 1536 3290a75021d32d016616fe527bc9884c ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1685675000 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1685675000 1288 655e228510b4c2a1abe905c368440826 ""
@@ -51,8 +51,8 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1685674601 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1685677622 6635505 8a4234c79e034f449af1f48ef52e4d81 ""
   "c:/texlive/2023/texmf.cnf" 1685677531 713 e69b156964470283e0530f5060668171 ""
-  "daihon.sty" 1691460110 2888 b8a1f3847389aeab319df5f16e3e0bc9 ""
-  "out/KaerunoGomugutu.aux" 1691462028 1457 5dcfa73cfd06354861847add029893be "latex"
+  "daihon.sty" 1691462329 2944 c105c916bd98e5ce0a45b5ec3ef0d68e ""
+  "out/KaerunoGomugutu.aux" 1691462730 1444 c871635b4cb75ccfee8f0e0ed91c3e89 "latex"
   (generated)
   "out/KaerunoGomugutu.aux"
   "out/KaerunoGomugutu.dvi"

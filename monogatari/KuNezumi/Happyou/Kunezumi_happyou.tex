@@ -4,7 +4,7 @@
     book]
     {tarticle}
 \usepackage{daihon}
-
+\usepackage{setspace}
 \begin{document}
 \Large
 
@@ -13,15 +13,50 @@
 %表紙
 \thispagestyle{empty}
 {\fontsize{30pt}{24pt}\selectfont
-クねずみ\\
-\begin{flushright}
-    \ruby{宮沢}{みや|ざわ}\ruby{賢治}{けん|じ}\\
-\end{flushright}
+    クねずみ\\
+    \begin{flushright}
+        \ruby{宮沢}{みや|ざわ}\ruby{賢治}{けん|じ}\\
+    \end{flushright}
 }
 \newpage
 \setcounter{page}{1}
 \pagewiselinenumbers
-\thispagestyle{fancy}\fancyhead[R]{ここから P1}
+\thispagestyle{fancy}
+\fancyhead[R]
+{
+    \begin{spacing}{0.6}
+        \fontsize{11}{20pt}\selectfont
+        {
+            P1\\
+            1G:言\\
+            2G:視\\
+            3G:聴\\
+            \indent\\
+        }
+    \end{spacing}
+    \makebox[-80mm][r]{
+        \parbox<t>[b]{5zw}{\fontsize{10}{25.5pt}\selectfont{
+            \vskip.15\baselineskip
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                }}}\par
+}
 \indent クという\ruby{名前}{な|まえ}のねずみがありました。たいへん\ruby{高慢}{ごう|まん}でそれにそねみ\ruby{深}{ぶか}くって、
 \ruby{自分}{じ|ぶん}をねずみの\ruby{仲間}{なか|ま}の一\ruby{番}{ばん}の\ruby{学者}{がく|しゃ}と\ruby{思}{おも}っていました。
 ほかのねずみが\ruby{何}{なに}か\ruby[<g>]{生意気}{なまいき}なこと
@@ -44,7 +79,7 @@
 \thispagestyle{fancy}
 \fancyhead[R]{\empty}
 \fancyhead[C]{P1}
-「\ruby{全}{まった}くです。」\\
+\noindent \,「\ruby{全}{まった}くです。」\\
 「あんな\ruby{大}{おお}きいのは\ruby{私}{わたし}もはじめてですよ。」\\
 「ええ、ジョウカドウでしたねえ。シンゲンはなんでもトウケイ四十二\ruby{度}{ど}二\ruby{分}{ふん}ナンイ……。」\\
 「エヘン、エヘン。」\\
@@ -152,7 +187,7 @@
 のほかタイイクなどが、ハッハッハ、たいへんそのどうもわるくなるね。」
 テねずみはむつかしいことをあまりたくさん\ruby{言}{い}ったので、もう\ruby{愉快}{ゆ|かい}でたまらないようでした。
 クねずみはそれがまたむやみにしゃくにさわって、「エン、エン。」と\ruby{聞}{き}こえないように、そしてできるだけ\ruby{高}{た
-か}くせきばらいをやって、にぎりこぶしをかためました。\\
+    か}くせきばらいをやって、にぎりこぶしをかためました。\\
 \indent \ruby{相手}{あい|て}のねずみはやはり「へい。」と\ruby{言}{い}っております。\\
 \indent テねずみはまたはじめました。\\
 「そこでそのケイザイやゴラクが\ruby{悪}{わる}くなるというと、\ruby{不平}{ふ|へい}を\ruby{生}{しょう}じてブンレツを

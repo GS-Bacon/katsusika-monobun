@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 AUG 2023 11:33
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 AUG 2023 11:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -190,9 +190,9 @@ Package pdfpages Warning: I will use a dummy \includepdf command
 \AM@templatesizebox=\box75
 )
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 54.
+(Font)              scaled to size 9.6222pt on input line 56.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 54.
+(Font)              scaled to size 9.6222pt on input line 56.
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 \l__pdf_internal_box=\box76
@@ -210,24 +210,24 @@ LaTeX Warning: Unused global option(s):
 (out/KaerunoGomugutu.aux)
 \openout1 = `KaerunoGomugutu.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 《縦組モード》 (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -240,46 +240,46 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
 ))
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 11.
+(Font)              scaled to size 13.85594pt on input line 10.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 11.
+(Font)              scaled to size 13.85594pt on input line 10.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 15.
+(Font)              scaled to size 28.86658pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 15.
+(Font)              scaled to size 28.86658pt on input line 14.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <30> not available
-(Font)              size <24.88> substituted on input line 15.
+(Font)              size <24.88> substituted on input line 14.
 
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 18.
+(Font)              scaled to size 14.43329pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 14.43329pt on input line 18.
+(Font)              scaled to size 14.43329pt on input line 17.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 18.
+(Font)              size <14.4> substituted on input line 17.
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 41.
+(Font)              scaled to size 6.92796pt on input line 40.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 41.
+(Font)              scaled to size 6.92796pt on input line 40.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 60.
+(Font)              scaled to size 13.85594pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 60.
+(Font)              scaled to size 13.85594pt on input line 59.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 60.
+(Font)              scaled to size 11.54663pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 60.
+(Font)              scaled to size 11.54663pt on input line 59.
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 61.
+(Font)              No change on input line 60.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 13.47107pt on input line 61.
+(Font)              scaled to size 13.47107pt on input line 60.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 13.47107pt on input line 61.
+(Font)              scaled to size 13.47107pt on input line 60.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
 (fancyhdr)                Make it at least 36.67198pt, for example:
@@ -289,7 +289,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 
 [2]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 85.
+(Font)              No change on input line 84.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
 (fancyhdr)                Make it at least 36.67198pt, for example:
@@ -299,7 +299,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 
 [3]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 110.
+(Font)              No change on input line 109.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
 (fancyhdr)                Make it at least 36.67198pt, for example:
@@ -309,7 +309,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 
 [6]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 137.
+(Font)              No change on input line 136.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
 (fancyhdr)                Make it at least 36.67198pt, for example:
@@ -319,7 +319,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 
 [6]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 158.
+(Font)              No change on input line 157.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
 (fancyhdr)                Make it at least 36.67198pt, for example:
@@ -329,7 +329,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 
 [10]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 179.
+(Font)              No change on input line 178.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
 (fancyhdr)                Make it at least 36.67198pt, for example:
@@ -339,7 +339,7 @@ Package fancyhdr Warning: \headheight is too small (28.45274pt):
 
 [11]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 216.
+(Font)              No change on input line 202.
 
 Package fancyhdr Warning: \headheight is too small (28.45274pt): 
 (fancyhdr)                Make it at least 36.67198pt, for example:
@@ -360,6 +360,6 @@ Here is how much of TeX's memory you used:
  27380 multiletter control sequences out of 15000+600000
  519679 words of font info for 71 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 69i,14n,76p,519b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,14n,76p,501b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/KaerunoGomugutu.dvi (17 pages, 63276 bytes).
+Output written on out/KaerunoGomugutu.dvi (17 pages, 63052 bytes).
