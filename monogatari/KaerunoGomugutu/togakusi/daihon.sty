@@ -10,6 +10,8 @@
 \usepackage{pdfpages}%面付設定
 \usepackage{plext}
 
+\usepackage{setspace}
+
 \renewcommand{\headruleskip}{-8mm}
 \renewcommand{\baselinestretch}{1.23}%行間調整
 \renewcommand{\headrulewidth}{1pt} %ヘッダー罫線を消す
@@ -17,7 +19,7 @@
 \renewcommand\LineNumber{{\color{gray}\raisebox{-2.4mm}{\rotatebox{90}{\thelinenumber}}}}%行番号を回転とズレた分調整
 \renewcommand\
 \AtBeginDvi{\special{papersize=210mm,297mm}} %A4サイズ 210x297
-\setlength{\topmargin}{20mm} % ページ上部余白の設定
+\setlength{\topmargin}{350mm} % ページ上部余白の設定
 \addtolength{\topmargin}{-1in} % 初期設定の1インチ分を引いておく。
 
 \setlength{\oddsidemargin}{22mm} % 同、奇数ページ左。
@@ -30,7 +32,7 @@
 
 \setlength{\textheight}{450pt} % 文書領域の幅（左右）。
 \setlength{\headsep}{12mm} % ヘッダ下端と本文領域との間隔。私の場合、ヘッダをつけぬので、この辺の数値は0である。しかし headsep って何や。headseparation？ headseparator？
-\setlength{\headheight}{10mm} % headheight → ヘッダの高さ。ヘッダはつけないが、設定しておかぬと TeX の自動配置の際にデフォルト値（知らんけど）を入れられそう。
+\setlength{\headheight}{33mm} % headheight → ヘッダの高さ。ヘッダはつけないが、設定しておかぬと TeX の自動配置の際にデフォルト値（知らんけど）を入れられそう。
 \setlength{\topskip}{0mm} % ここは改善の余地あり→下段 ［参考］ "行位置が揃った段組" を見ること。
 \setlength{\parskip}{0pt} % 段落間の自動空白調整を切る。parskip って何の略や。parindent っちゅうのもあるけど、par って何なんや？ → par とは paragraph（段落）のことらしい。 parindent は、1行目の字下げ幅。
 
@@ -38,7 +40,7 @@
 \rubysetup{(m)} %ルビのデフォルト設定 モノルビで
 
 %1ページあたりの行数、文字数を設定するためのなんかよくわからんやつ
-\topmargin=\paperheight
+%\topmargin=\paperheight
 \advance\topmargin by -\textwidth
 \divide\topmargin by 2
 \advance\topmargin by -1truein

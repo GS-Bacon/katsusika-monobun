@@ -21,21 +21,41 @@ book]
 \pagewiselinenumbers
 \thispagestyle{fancy}
 \setcounter{page}{2}
-\fancyhead[R]{\parbox<t>[b]{4zw}{\fontsize{14}{26pt}\selectfont{
-  1\\
-  2\\
-  3\\
-  4\\
-  5\\
-  6\\
-  7\\
-  8\\
-  9\\
-  \newline
-  \newline
-  11\\
-  12\\
-  13\\}}\par}
+\fancyhead[R]
+{
+    \begin{spacing}{0.6}
+        \fontsize{11}{20pt}\selectfont
+        {
+            1G:言\\
+            2G:視\\
+            3G:聴\\
+            \indent\\
+        }
+    \end{spacing}
+
+    \makebox[150mm][r]{
+        \parbox<t>[b]{5zw}{\fontsize{10}{25.5pt}\selectfont{
+                \vskip.15\baselineskip
+                \rensuji{P}\rensuji{1}\\\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+                \indent\\
+            }}}\par
+}
 
 \indent 松の木や\ruby{楢}{なら}の木の林の下を、深い\ruby{堰}{せき}が流れて\ruby{居}{を}りました。岸には\ruby{茨}{いばら}やつゆ草やたでが一杯にしげり、
 そのつゆくさの十本ばかり集った下のあたりに、カン\ruby{蛙}{がへる}のうちがありました。\\

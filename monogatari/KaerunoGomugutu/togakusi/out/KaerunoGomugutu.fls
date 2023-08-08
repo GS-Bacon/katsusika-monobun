@@ -120,6 +120,10 @@ INPUT c:/texlive/2023/texmf-dist/tex/latex/pdfpages/ppnull.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/pdfpages/ppnull.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/pdfpages/ppnull.def
 INPUT c:/texlive/2023/texmf-dist/tex/latex/pdfpages/ppnull.def
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm
 INPUT c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
@@ -166,5 +170,6 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-v.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/japanese-otf/nmlminr-h.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm
 INPUT out/KaerunoGomugutu.aux

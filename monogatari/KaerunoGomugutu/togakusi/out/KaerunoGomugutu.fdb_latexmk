@@ -1,14 +1,15 @@
 # Fdb version 4
-["dvipdf"] 1691462730 "out/KaerunoGomugutu.dvi" "out/KaerunoGomugutu.pdf" "out/KaerunoGomugutu" 1691462731 0
-  "out/KaerunoGomugutu.dvi" 1691462730 63052 4ec98484d1c7a0422ea6beded85d2076 "latex"
+["dvipdf"] 1691481754 "out/KaerunoGomugutu.dvi" "out/KaerunoGomugutu.pdf" "out/KaerunoGomugutu" 1691481755 0
+  "out/KaerunoGomugutu.dvi" 1691481754 63356 96d97a4c8a6e0a89c611e215a3dce666 "latex"
   (generated)
   "out/KaerunoGomugutu.pdf"
   (rewritten before read)
-["latex"] 1691462730 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" "out/KaerunoGomugutu.dvi" "KaerunoGomugutu" 1691462731 0
-  "KaerunoGomugutu.tex" 1691462730 27641 e7eff19e023652999cbdec8984b32856 ""
-  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" 1691462730 27641 e7eff19e023652999cbdec8984b32856 ""
+["latex"] 1691481754 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" "out/KaerunoGomugutu.dvi" "KaerunoGomugutu" 1691481755 0
+  "KaerunoGomugutu.tex" 1691481753 28327 1d5c7c820287f1a9fedc36bfe5228604 ""
+  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" 1691481753 28327 1d5c7c820287f1a9fedc36bfe5228604 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm" 1685675298 1536 3290a75021d32d016616fe527bc9884c ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1685675000 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1685675000 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1685675000 1288 655e228510b4c2a1abe905c368440826 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1685675000 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm" 1685675000 1508 efecb4a315fe0975509670a272d75ef5 ""
@@ -40,6 +41,7 @@
   "c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty" 1685676466 2224 1230ab76aa62221ccbd90bca8c8c015e ""
   "c:/texlive/2023/texmf-dist/tex/latex/pdfpages/pdfpages.sty" 1685676476 54859 c2b191f8d736ddb86177723cc23c30a9 ""
   "c:/texlive/2023/texmf-dist/tex/latex/pdfpages/ppnull.def" 1685676476 2830 cd7ca591000fe5fb30ac66b7d00e7917 ""
+  "c:/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty" 1685676802 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty" 1685677208 10214 de3e21cfc0eccc98ca7f8dac0ef263d2 ""
   "c:/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty" 1685677425 56148 51a9a8571c07b9921892ae11063ae853 ""
   "c:/texlive/2023/texmf-dist/tex/platex/base/plext.sty" 1685676566 19428 229dd8384b47a96e0c81e05026086783 ""
@@ -51,8 +53,8 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1685674601 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1685677622 6635505 8a4234c79e034f449af1f48ef52e4d81 ""
   "c:/texlive/2023/texmf.cnf" 1685677531 713 e69b156964470283e0530f5060668171 ""
-  "daihon.sty" 1691462329 2944 c105c916bd98e5ce0a45b5ec3ef0d68e ""
-  "out/KaerunoGomugutu.aux" 1691462730 1444 c871635b4cb75ccfee8f0e0ed91c3e89 "latex"
+  "daihon.sty" 1691480112 2971 2fae0a0fdf99cd7dc23528274af348af ""
+  "out/KaerunoGomugutu.aux" 1691481754 1444 c871635b4cb75ccfee8f0e0ed91c3e89 "latex"
   (generated)
   "out/KaerunoGomugutu.aux"
   "out/KaerunoGomugutu.dvi"
