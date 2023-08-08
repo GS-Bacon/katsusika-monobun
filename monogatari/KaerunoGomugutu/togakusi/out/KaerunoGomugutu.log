@@ -1,12 +1,12 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 AUG 2023 17:02
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.7)  8 AUG 2023 23:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
-(c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
+**c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
+(c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
-L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
+L3 programming layer <2023-06-05> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
 \c@@paper=\count184
 (c:/texlive/2023/texmf-dist/tex/platex/base/tsize10.clo
@@ -265,17 +265,17 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 60.
+(Font)              scaled to size 6.92796pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 60.
+(Font)              scaled to size 6.92796pt on input line 59.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 79.
+(Font)              scaled to size 13.85594pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 79.
+(Font)              scaled to size 13.85594pt on input line 78.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 79.
+(Font)              scaled to size 11.54663pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 79.
+(Font)              scaled to size 11.54663pt on input line 78.
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
 (Font)              No change on input line 80.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
@@ -284,35 +284,59 @@ LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
 (Font)              scaled to size 10.58441pt on input line 80.
 [2]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 104.
+(Font)              No change on input line 131.
 [3]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 129.
-[6]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
 (Font)              No change on input line 156.
 [6]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 177.
+(Font)              No change on input line 209.
+[7]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 258.
 [10]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 198.
+(Font)              No change on input line 308.
 [11]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 222.
-[14] [15] [16] [17] [18] [19] [20] [21] [22] Excluding 'comment' comment. [23] (out/KaerunoGomugutu.aux)
+(Font)              No change on input line 359.
+[14]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 412.
+[15]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 468.
+[18]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 517.
+[19]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 570.
+[22]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 617.
+[23]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 665.
+[26]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 712.
+[27]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 749.
+[30] Excluding 'comment' comment. [31] (out/KaerunoGomugutu.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 7140 strings out of 478148
- 111309 string characters out of 5841816
- 1866606 words of memory out of 5000000
- 27425 multiletter control sequences out of 15000+600000
- 519979 words of font info for 72 fonts, out of 8000000 for 9000
+ 7156 strings out of 478090
+ 111419 string characters out of 5840649
+ 1865578 words of memory out of 5000000
+ 27499 multiletter control sequences out of 15000+600000
+ 521079 words of font info for 74 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 69i,15n,76p,501b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,15n,76p,499b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/KaerunoGomugutu.dvi (17 pages, 63356 bytes).
+Output written on out/KaerunoGomugutu.dvi (17 pages, 93620 bytes).
