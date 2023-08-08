@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 AUG 2023 16:11
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  8 AUG 2023 16:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -311,7 +311,7 @@ Package fancyhdr Warning: \headheight is too small (99.58464pt):
 
 [3] Excluding 'comment' comment.
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 157.
+(Font)              No change on input line 156.
 
 Package fancyhdr Warning: \headheight is too small (99.58464pt): 
 (fancyhdr)                Make it at least 108.02963pt, for example:
@@ -321,7 +321,7 @@ Package fancyhdr Warning: \headheight is too small (99.58464pt):
 
 [4]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 206.
+(Font)              No change on input line 205.
 
 Package fancyhdr Warning: \headheight is too small (99.58464pt): 
 (fancyhdr)                Make it at least 108.02963pt, for example:
@@ -331,7 +331,7 @@ Package fancyhdr Warning: \headheight is too small (99.58464pt):
 
 [5]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 243.
+(Font)              No change on input line 242.
 
 Package fancyhdr Warning: \headheight is too small (99.58464pt): 
 (fancyhdr)                Make it at least 108.02963pt, for example:
@@ -341,7 +341,7 @@ Package fancyhdr Warning: \headheight is too small (99.58464pt):
 
 [6]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 266.
+(Font)              No change on input line 265.
 
 Package fancyhdr Warning: \headheight is too small (99.58464pt): 
 (fancyhdr)                Make it at least 108.02963pt, for example:
@@ -351,7 +351,7 @@ Package fancyhdr Warning: \headheight is too small (99.58464pt):
 
 [7]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 302.
+(Font)              No change on input line 301.
 
 Package fancyhdr Warning: \headheight is too small (99.58464pt): 
 (fancyhdr)                Make it at least 108.02963pt, for example:
@@ -361,7 +361,7 @@ Package fancyhdr Warning: \headheight is too small (99.58464pt):
 
 [8]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 340.
+(Font)              No change on input line 339.
 
 Package fancyhdr Warning: \headheight is too small (99.58464pt): 
 (fancyhdr)                Make it at least 108.02963pt, for example:
@@ -371,7 +371,7 @@ Package fancyhdr Warning: \headheight is too small (99.58464pt):
 
 [9]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 380.
+(Font)              No change on input line 379.
 
 Package fancyhdr Warning: \headheight is too small (99.58464pt): 
 (fancyhdr)                Make it at least 108.02963pt, for example:
@@ -419,4 +419,4 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  69i,15n,76p,742b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/Kunezumi_happyou.dvi (14 pages, 87308 bytes).
+Output written on out/Kunezumi_happyou.dvi (14 pages, 87252 bytes).
