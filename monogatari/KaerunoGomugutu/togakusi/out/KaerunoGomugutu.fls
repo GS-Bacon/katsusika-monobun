@@ -1,10 +1,10 @@
-PWD c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi
+PWD c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt
-INPUT c:/Users/bacon/Documents/monobun/katsusika-monobun/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
+INPUT c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
 OUTPUT out/KaerunoGomugutu.log
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 INPUT c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls

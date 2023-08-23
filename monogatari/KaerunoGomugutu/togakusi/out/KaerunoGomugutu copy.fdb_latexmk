@@ -1,12 +1,12 @@
 # Fdb version 4
-["dvipdf"] 1692774973 "out/KaerunoGomugutu.dvi" "out/KaerunoGomugutu.pdf" "out/KaerunoGomugutu" 1692774974 0
-  "out/KaerunoGomugutu.dvi" 1692774973 93620 fea7e8c095a8075ad4efae55cb7d3616 "latex"
+["dvipdf"] 1691843267 "out/KaerunoGomugutu copy.dvi" "out/KaerunoGomugutu copy.pdf" "out/KaerunoGomugutu copy" 1691843268 0
+  "out/KaerunoGomugutu copy.dvi" 1691843267 63356 95accdc667acb9e252b1696ec2dcbb31 "latex"
   (generated)
-  "out/KaerunoGomugutu.pdf"
+  "out/KaerunoGomugutu copy.pdf"
   (rewritten before read)
-["latex"] 1692774973 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" "out/KaerunoGomugutu.dvi" "KaerunoGomugutu" 1692774974 0
-  "KaerunoGomugutu.tex" 1692774970 40325 0d5568f9fbb4301edde93e16f1c8f0b3 ""
-  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" 1692774970 40325 0d5568f9fbb4301edde93e16f1c8f0b3 ""
+["latex"] 1691843266 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu copy.tex" "out/KaerunoGomugutu copy.dvi" "KaerunoGomugutu copy" 1691843268 0
+  "KaerunoGomugutu copy.tex" 1691481823 28327 1d5c7c820287f1a9fedc36bfe5228604 ""
+  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu copy.tex" 1691481823 28327 1d5c7c820287f1a9fedc36bfe5228604 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm" 1685675298 1536 3290a75021d32d016616fe527bc9884c ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1685675000 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1685675000 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -54,9 +54,9 @@
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1685677622 6635505 8a4234c79e034f449af1f48ef52e4d81 ""
   "c:/texlive/2023/texmf.cnf" 1685677531 713 e69b156964470283e0530f5060668171 ""
   "daihon.sty" 1691480112 2971 2fae0a0fdf99cd7dc23528274af348af ""
-  "out/KaerunoGomugutu.aux" 1692774973 3176 c1a4e6844a7207e7a3498956c5945f0c "latex"
+  "out/KaerunoGomugutu copy.aux" 1691843267 1444 c871635b4cb75ccfee8f0e0ed91c3e89 "latex"
   (generated)
-  "out/KaerunoGomugutu.aux"
-  "out/KaerunoGomugutu.dvi"
-  "out/KaerunoGomugutu.log"
+  "out/KaerunoGomugutu copy.aux"
+  "out/KaerunoGomugutu copy.dvi"
+  "out/KaerunoGomugutu copy.log"
   (rewritten before read)

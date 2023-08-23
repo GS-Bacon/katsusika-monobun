@@ -1,13 +1,12 @@
 # Fdb version 4
-["dvipdf"] 1692774973 "out/KaerunoGomugutu.dvi" "out/KaerunoGomugutu.pdf" "out/KaerunoGomugutu" 1692774974 0
-  "out/KaerunoGomugutu.dvi" 1692774973 93620 fea7e8c095a8075ad4efae55cb7d3616 "latex"
+["dvipdf"] 1692775953 "out/Kunezumi_happyou_haihu.dvi" "out/Kunezumi_happyou_haihu.pdf" "out/Kunezumi_happyou_haihu" 1692775954 0
+  "out/Kunezumi_happyou_haihu.dvi" 1692775953 44024 364020b3cbeb335dc1154a51d5bc57c4 "latex"
   (generated)
-  "out/KaerunoGomugutu.pdf"
+  "out/Kunezumi_happyou_haihu.pdf"
   (rewritten before read)
-["latex"] 1692774973 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" "out/KaerunoGomugutu.dvi" "KaerunoGomugutu" 1692774974 0
-  "KaerunoGomugutu.tex" 1692774970 40325 0d5568f9fbb4301edde93e16f1c8f0b3 ""
-  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex" 1692774970 40325 0d5568f9fbb4301edde93e16f1c8f0b3 ""
-  "c:/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm" 1685675298 1536 3290a75021d32d016616fe527bc9884c ""
+["latex"] 1692775953 "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KuNezumi/Happyou/Kunezumi_happyou_haihu.tex" "out/Kunezumi_happyou_haihu.dvi" "Kunezumi_happyou_haihu" 1692775954 0
+  "Kunezumi_happyou_haihu.tex" 1692775953 31483 6c9384dd7d709dc6f43da64c1f57d0b0 ""
+  "c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KuNezumi/Happyou/Kunezumi_happyou_haihu.tex" 1692775953 31483 6c9384dd7d709dc6f43da64c1f57d0b0 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1685675000 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1685675000 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1685675000 1288 655e228510b4c2a1abe905c368440826 ""
@@ -53,10 +52,10 @@
   "c:/texlive/2023/texmf-dist/web2c/texmf.cnf" 1685674601 40967 d940221f8762fd5848760382d97d1226 ""
   "c:/texlive/2023/texmf-var/web2c/eptex/platex.fmt" 1685677622 6635505 8a4234c79e034f449af1f48ef52e4d81 ""
   "c:/texlive/2023/texmf.cnf" 1685677531 713 e69b156964470283e0530f5060668171 ""
-  "daihon.sty" 1691480112 2971 2fae0a0fdf99cd7dc23528274af348af ""
-  "out/KaerunoGomugutu.aux" 1692774973 3176 c1a4e6844a7207e7a3498956c5945f0c "latex"
+  "daihon.sty" 1691479972 3002 5f3600ef06dfef1670d4e4ff95092ec0 ""
+  "out/Kunezumi_happyou_haihu.aux" 1692775953 33 6bbbc4989d0c340984f875bce9661f09 "latex"
   (generated)
-  "out/KaerunoGomugutu.aux"
-  "out/KaerunoGomugutu.dvi"
-  "out/KaerunoGomugutu.log"
+  "out/Kunezumi_happyou_haihu.aux"
+  "out/Kunezumi_happyou_haihu.dvi"
+  "out/Kunezumi_happyou_haihu.log"
   (rewritten before read)

@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  23 AUG 2023 16:16
+This is e-pTeX, Version 3.141592653-p4.1.0-230214-2.6 (utf8.sjis) (TeX Live 2023) (preloaded format=platex 2023.6.2)  23 AUG 2023 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
-(c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KaerunoGomugutu/togakusi/KaerunoGomugutu.tex
+**c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KuNezumi/Happyou/Kunezumi_happyou_haihu.tex
+(c:/Users/A0216/Documents/monobun/katsusika-monobun-2/monogatari/KuNezumi/Happyou/Kunezumi_happyou_haihu.tex
 pLaTeX2e <2023-02-14>+1 (based on LaTeX2e <2022-11-01> patch level 1)
 L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/platex/base/tarticle.cls
 Document Class: tarticle 2020/09/30 v1.8f Standard pLaTeX class
@@ -192,9 +192,9 @@ Package pdfpages Warning: I will use a dummy \includepdf command
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 58.
+(Font)              scaled to size 9.6222pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 58.
+(Font)              scaled to size 9.6222pt on input line 59.
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 \l__pdf_internal_box=\box76
@@ -209,27 +209,27 @@ File: l3backend-dvips.def 2023-04-19 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [book].
 
-(out/KaerunoGomugutu.aux)
-\openout1 = `KaerunoGomugutu.aux'.
+(out/Kunezumi_happyou_haihu.aux)
+\openout1 = `Kunezumi_happyou_haihu.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 《縦組モード》 (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 (c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
@@ -242,9 +242,9 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: dvips (dvips) on input line 124.
 ))
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 10.
+(Font)              scaled to size 13.85594pt on input line 8.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 10.
+(Font)              scaled to size 13.85594pt on input line 8.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
 (Font)              scaled to size 28.86658pt on input line 14.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
@@ -265,78 +265,162 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 59.
+(Font)              scaled to size 6.92796pt on input line 60.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 6.92796pt on input line 59.
-LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 78.
-LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 13.85594pt on input line 78.
-LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 78.
-LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
-(Font)              scaled to size 11.54663pt on input line 78.
+(Font)              scaled to size 6.92796pt on input line 60.
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 80.
+(Font)              No change on input line 78.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 10.58441pt on input line 80.
+(Font)              scaled to size 10.58441pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 10.58441pt on input line 80.
+(Font)              scaled to size 10.58441pt on input line 78.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 119.98558pt, for example:
+(fancyhdr)                \setlength{\headheight}{119.98558pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.40094pt}.
+
+[1]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 96.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 119.98558pt, for example:
+(fancyhdr)                \setlength{\headheight}{119.98558pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.40094pt}.
+
 [2]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 131.
+(Font)              No change on input line 111.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 119.98558pt, for example:
+(fancyhdr)                \setlength{\headheight}{119.98558pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.40094pt}.
+
 [3]
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 13.47107pt on input line 133.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 13.47107pt on input line 133.
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 6.73553pt on input line 135.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 6.73553pt on input line 135.
+LaTeX Font Info:    Font shape `JT1/hmc/bx/n' will be
+(Font)              scaled to size 13.47107pt on input line 135.
+LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
+(Font)              scaled to size 13.47107pt on input line 135.
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 156.
-[6]
+(Font)              No change on input line 159.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
+[4]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
 (Font)              No change on input line 209.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
+[5]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 247.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
+[6]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 270.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
 [7]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 258.
+(Font)              No change on input line 307.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
+[8]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 346.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
+[9]
+LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
+(Font)              No change on input line 387.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
 [10]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 308.
+(Font)              No change on input line 405.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
 [11]
 LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 359.
-[14]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 412.
-[15]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 468.
-[18]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 517.
-[19]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 570.
-[22]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 617.
-[23]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 665.
-[26]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 712.
-[27]
-LaTeX Font Info:    Kanji font shape `JT1/hmc/m/sl' undefined
-(Font)              No change on input line 749.
-[30] Excluding 'comment' comment. [31] (out/KaerunoGomugutu.aux)
+(Font)              No change on input line 434.
+
+Package fancyhdr Warning: \headheight is too small (99.58464pt): 
+(fancyhdr)                Make it at least 120.02975pt, for example:
+(fancyhdr)                \setlength{\headheight}{120.02975pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-20.44511pt}.
+
+[12]
+Overfull \hbox (72.31142pt too wide) in paragraph at lines 436--450
+[]\JT1/hmc/m/n/14.4 このフ ァイルは 、 インタ ーネ ットの図書館 、 \OT1/cmr/m/n/14.4 "http://www.aozora.gr.jp/">\JT1/hmc/m/n/14.4 青空文庫 （\OT1/cmr/m/n/14.4 http://www.aozora.gr.jp/\JT1/hmc/m/n/14.4 ）
+ []
+
+[13] (out/Kunezumi_happyou_haihu.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 5.12pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 7156 strings out of 478148
- 111425 string characters out of 5841816
- 1865606 words of memory out of 5000000
- 27441 multiletter control sequences out of 15000+600000
- 519979 words of font info for 72 fonts, out of 8000000 for 9000
+ 7124 strings out of 478148
+ 111252 string characters out of 5841816
+ 1872606 words of memory out of 5000000
+ 27410 multiletter control sequences out of 15000+600000
+ 519533 words of font info for 72 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 69i,15n,76p,501b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 69i,15n,76p,748b,1026s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on out/KaerunoGomugutu.dvi (17 pages, 93620 bytes).
+Output written on out/Kunezumi_happyou_haihu.dvi (14 pages, 44024 bytes).
